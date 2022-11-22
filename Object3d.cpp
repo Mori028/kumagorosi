@@ -87,7 +87,7 @@ void Object3d::PostDraw()
 {
 	// コマンドリストを解除
 	Object3d::cmdList = nullptr;
-}
+} 
 
 Object3d* Object3d::Create()
 {
